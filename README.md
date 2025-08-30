@@ -16,10 +16,10 @@ To provide its core functionality, the extension saves user-configured timer pre
 
 The extension requires certain permissions to function correctly, such as "alarms" to run timers in the background and "scripting" to display the floating timer on web pages. These permissions are used solely to provide the advertised features of the extension.
 
-Changes to This Policy
+### Changes to This Policy
 
 We may update this privacy policy in the future. Any changes will be reflected in the updated version of the extension.
 
-Contact Us
+### Contact Us
 
 If you have any questions about this privacy policy, please contact us at: ganesh.padavala1999@gmail.com
