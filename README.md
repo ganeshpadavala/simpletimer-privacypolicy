@@ -1,12 +1,12 @@
-# Privacy Policy for Simple Timer
+# Privacy Policy for Time bomb
 
 ## Last Updated: Aug 30, 2025
 
-## This privacy policy outlines the data handling practices for the "Simple Timer" Chrome Extension.
+## This privacy policy outlines the data handling practices for the "Time Bomb" Chrome Extension.
 
 ### Data Collection
 
-The "Simple Timer" extension does not collect, store, or transmit any personal or sensitive user data. We do not track your browsing history, your activity, or any personal information.
+The "Time Bomb" extension does not collect, store, or transmit any personal or sensitive user data. We do not track your browsing history, your activity, or any personal information.
 
 ### Data Storage
 
